@@ -26,16 +26,16 @@ A simple **Machine Learning Web App** built with **Streamlit** that predicts the
 
 ## ▶️ How to Run Locally  
 
-   1. Clone the repository
+1. Clone the repository
    ```bash
       git clone https://github.com/Sambhavi0404/Car-Price-Estimator.git
       cd Car-Price-Estimator
    
-   2. Install dependencies
+2. Install dependencies
    ```bash
       pip install -r requirements.txt
    
-   3. Run the Streamlit app
+3. Run the Streamlit app
    ```bash
       streamlit run app.py
 

@@ -49,5 +49,3 @@ A simple **Machine Learning Web App** built with **Streamlit** that predicts the
       │── requirements.txt      # Dependencies
       │── README.md             # Project info
       │── .streamlit/config.toml # Custom pastel theme
-
----

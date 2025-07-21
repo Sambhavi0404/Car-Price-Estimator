@@ -1,24 +1,37 @@
-# Car Price Estimator  
+# 🚗 Car Price Estimator  
 
-A simple **Machine Learning Web App** built with **Streamlit** that predicts the **resale price of a car** based on its **age** and **mileage**.  
+**[👉 Live Demo – Click Here](https://carprice-estimator.streamlit.app/)**  
+
+A simple **Machine Learning Web App** built with **Streamlit** that predicts the resale price of a car based on its age and mileage.  
 
 ---
 
-## Project Overview  
+## ✨ Features  
 
-- **Input:** Car age (years), Mileage (km)  
-- **Output:** Estimated resale price  
-- **Model:** Linear Regression on synthetic data  
-- **Visualization:** 3D scatter plot showing dataset + predicted car  
+✅ User-friendly interface  
+✅ Predicts car resale price instantly  
+✅ Interactive visualization of predictions  
+✅ Deployed on **Streamlit Cloud**  
+
+---
+
+## 🛠️ Tech Stack  
+
+- **Python**  
+- **scikit-learn** (Linear Regression model)  
+- **Streamlit** (Web UI)  
+- **Plotly** (Interactive charts)  
 
 ---
 
 ## Repository Structure  
 
-Car-Price-Estimator/
-│── app.py # Streamlit app code
-│── requirements.txt # Dependencies
-│── README.md # Project info
+```bash
+   Car-Price-Estimator/
+   │── app.py                # Streamlit app code
+   │── requirements.txt      # Dependencies
+   │── README.md             # Project info
+   │── .streamlit/config.toml # Custom pastel theme
 
 ---
 
